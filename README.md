@@ -1,4 +1,4 @@
-## ## Oi, sou o Sueidy, apaixonado por desenvolvimento de software e tecnologia!
+## Oi, sou o Sueidy, apaixonado por desenvolvimento de software e tecnologia!
 
 Seja bem-vindo ao meu espaço de projetos, estudos e códigos.
 
